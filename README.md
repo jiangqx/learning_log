@@ -1,2 +1,2 @@
 "# learning_log"
-这是** bold **learning_log* italic *项目。项目[链接]（https://baidu.com）
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
