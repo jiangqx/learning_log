@@ -43,3 +43,8 @@ Sometimes it's useful to have different levels of headings to structure your doc
 - [ ] This is an incomplete item
 
 当然还要emoji表情包! :sparkles: :camel: :boom:
+
+学生 | 成绩
+------------ | -------------
+张三 | 80
+王五 | 100
