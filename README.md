@@ -1,4 +1,3 @@
-"# learning_log"
 中文 **试试** 看看有没有 *什么问题* 到底问题在哪儿 [这儿](http://google.com)
 
 数字列表:
@@ -23,26 +22,24 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-# Structured documents
+# 结构文档
 
 Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
 
-### This is a third-tier heading
+### 三级标题
 
-You can use one `#` all the way up to `######` six for different heading sizes.
+你可以用 `#` 到 `######` 来标识不同大小的标题样式
 
-If you'd like to quote someone, use the > character before the line:
+如果想引用一段话, 在饮用前加上 > 即可:
 
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.
 > - Captain Janeway
 
-GitHub supports many extras in Markdown that help you reference and link to people. If you ever want to direct a comment at someone, you can prefix their name with an @ symbol: Hey @kneath — love your sweater!
+如果你想at谁，就在他的名字前加上 @ 符号: 你好 @jiangqx — 这个项目不错哦!
 
-But I have to admit, tasks lists are my favorite:
+任务清单，简直不能更牛，有木有
 
 - [x] This is a complete item
 - [ ] This is an incomplete item
 
-When you include a task list in the first comment of an Issue, you will see a helpful progress bar in your list of issues. It works in Pull Requests, too!
-
-And, of course emoji! :sparkles: :camel: :boom:
+当然还要emoji表情包! :sparkles: :camel: :boom:
