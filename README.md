@@ -1,2 +1,2 @@
 "# learning_log"
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+中文 **试试** 看看有没有 *什么问题* 到底问题在哪儿 [点这儿试试](http://google.com)
