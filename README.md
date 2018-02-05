@@ -1,2 +1,20 @@
 "# learning_log"
-中文 **试试** 看看有没有 *什么问题* 到底问题在哪儿 [点这儿试试](http://google.com)
+中文 **试试** 看看有没有 *什么问题* 到底问题在哪儿 [这儿](http://google.com)
+
+Sometimes you want numbered lists:
+
+1. One
+2. Two
+3. Three
+
+Sometimes you want bullet points:
+
+* Start a line with a star
+* Profit!
+
+Alternatively,
+
+- Dashes work just as well
+- And if you have sub points, put two spaces before the dash or star:
+  - Like this
+  - And this
